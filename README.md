@@ -24,7 +24,8 @@ Fully responsive personal Travel website, <br />Responsive for all devices, buil
 This project is a modern landing page built using **Next.js**, **TailwindCSS**, and **TypeScript**. It showcases a clean, responsive design while leveraging the power of these technologies to create a fast, scalable, and user-friendly website. 
 
 <br/>
-## <a name="tech-stack">⚙️ Tech Stack</a>
+
+## <a name="tech-stack">⚙️ Tech Stack </a>
 
 - **`Next.js`**
 - **`Tailwind CSS`**
